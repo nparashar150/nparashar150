@@ -345,8 +345,8 @@ body.active .mscroll {
 }
 #OurBlog .each-block .icon {
   float: left;
-  background-color: #e6275c;
-  padding: 8px 10px 4px;
+  background-color: #f05454;
+  padding: 6px 7px 2.5px;
   margin-right: 16px;
 }
 #OurBlog .blog-wrap .blog-intro {
@@ -399,7 +399,7 @@ body.active .mscroll {
 	text-align: center;
 }
 #OurBlog .learnmore a {
-    background-color: #e6275c;
+    background-color: #f05454;
     color: #fff;
     padding: 20px 30px;
     font: 700 24px/100% 'Futura PT book';
