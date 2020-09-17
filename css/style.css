@@ -246,7 +246,7 @@ body.active .mscroll {
 #Services .each-services img {
 	width: 80px;
 	height: auto;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 }
 #Services .each-services h3 {
 	color: #000;
@@ -275,8 +275,8 @@ body.active .mscroll {
 }
 #OurWork .grey-box {
   background-color: #4f4f4f;
-  padding: 20px;
-  height: 300px;
+  padding: 10px;
+  height: 400px;
   position: relative;
 }
 #OurWork .each-work {
@@ -296,10 +296,10 @@ body.active .mscroll {
 }
 #OurWork .grey-box .sponser {
   position: absolute;
-  bottom: 30px;
+  bottom: -2px;
   width: 100%;
   left: 0;
-  padding-left: 30px;
+  padding-left: 20px;
 }
 #OurWork .sponser h4 {
   font: 700 20px/125% 'Futura PT book';
