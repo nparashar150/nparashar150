@@ -469,7 +469,7 @@ body.active .mscroll {
 	margin-right: 0;
 }
 #Testimonials .testi-wrapper .old-testimonials {
-	background: url("../images/testimonials-background.jpg") no-repeat bottom center / cover;
+	background: url("../images/background.png") no-repeat bottom center / cover;
 	padding: 30px 50px;
 	margin: 0 10px;
 	height: 300px;
