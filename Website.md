@@ -1,7 +1,9 @@
 # Check-out My Websites Here.
 
-[Mi A1](https://nparashar150.github.io/mia1)
-[Naman Parashar](https://nparashar150.github.io)
+# [Mi A1](https://nparashar150.github.io/mia1)
 
-# Keep Supporting
+
+# [Naman Parashar](https://nparashar150.github.io)
+
+
 # [Thank You for visiting.](#)
