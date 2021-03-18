@@ -41,7 +41,7 @@
 <br>
 
 # Linux Scripts made by me
-## [&bull;) BuildScript](https://nparashar150.me/buildscript/)
+## [&bull;) BuildScript](https://github.com/nparashar150/buildscript/)
 ### There are the scripts I made which are used by people in Custom ROM community for saving their time.
 ### [Thank You for checking my Scripts.]
 
