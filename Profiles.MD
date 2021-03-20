@@ -33,7 +33,7 @@
 
 ## [6) Netflix-Clone](http://nparashar150.me/netflix/)
 ### [&bull;) Source](https://github.com/nparashar150/netflix)
-### This is the Netflix clone I am made for ACE-Selections.
+### This is the Netflix clone I made for ACE-Selections.
 
 <br>
 
