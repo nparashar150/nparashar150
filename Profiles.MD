@@ -27,7 +27,7 @@
 
 ## [5) Colt OS](https://colt-enigma.github.io/)
 ### [&bull;) Source](https://github.com/Colt-Enigma/colt-enigma.github.io/)
-### I am currently working on this project. This Project was first initiated by Arun Tetalia he used a prebuilt template for it. Later he dropped it so I am continuing it for Colt OS Custom ROM Team.
+### I am currently working on this project. This Project was first initiated by Arun Teltia, he used a prebuilt template for it. Later he dropped it so I am continuing it for Colt OS Custom ROM Team.
 
 <br>
 
