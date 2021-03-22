@@ -15,7 +15,7 @@
 ## [3) Legion OS](https://legionos.org/)
 ### [&bull;) Source-1](https://github.com/nparashar150/website)
 ### [&bull;) Source-2](https://github.com/Project-LegionOS/Project-LegionOS.github.io)
-### I designed this website for Legion OS Custom ROM Team. It is maintained by another guy now.
+### I designed the old website for Legion OS Custom ROM Team. It is maintained and redesigned by another guy now.
 
 <br>
 
