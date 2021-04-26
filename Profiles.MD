@@ -19,8 +19,8 @@
 
 <br>
 
-## [4) Kang OS](https://kangos.in/)
-### [&bull;) Source](https://github.com/nparashar150/kangos)
+## [4) Kang OS](https://try.kangos.in/)
+### [&bull;) Source](https://github.com/nparashar150/try.kangos.in)
 ### I am currently working on this project. Everything on this website is designed by me.
 
 <br>
