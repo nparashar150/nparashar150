@@ -37,6 +37,12 @@
 
 <br>
 
+## [7) Note.it](https://msms-224ad.web.app/)
+### [&bull;) Source](https://github.com/nparashar150/note.it)
+### Made a website which can save notes for you. You can access them anytime you want as it is saved in LocalStorage.
+
+<br>
+
 ### [Thank You for visiting my Web Projects.]
 
 <br>
