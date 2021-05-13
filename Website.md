@@ -4,9 +4,11 @@
 
 ## [2) Mi A2](https://nparashar150.github.io/mia2)
 
-## [3) Legion OS](https://project-legionos.github.io/)
+## [3) Naman Parashar](https://nparashar150.github.io)
 
-## [4) Naman Parashar](https://nparashar150.github.io)
+## [4) Kang OS](https://kangos.in/)
 
-## [5) Kang OS](https://kangos.in/)
-# [Thank You for visiting.]
+## [5) Note.it](https://msms-224ad.web.app/)
+<br>
+
+## Thank You for visiting.
