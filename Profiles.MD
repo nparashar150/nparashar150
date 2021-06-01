@@ -44,7 +44,7 @@
 <br>
 
 ## [7) Covid19-Tracker](https://covid19-api-vanilla.netlify.app/)
-## [7) Alternate Link](https://nparashar150.me/Covid19-Vanilla/)
+### [&bull;) Alternate Link](https://nparashar150.me/Covid19-Vanilla/)
 ### [&bull;) Source](https://github.com/nparashar150/Covid19-Vanilla/)
 ### Made a website which can display live Covid stats of India statewise. 
 
