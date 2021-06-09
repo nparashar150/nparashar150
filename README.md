@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Naman Parashar </h1>
-<p align="center"> <img width="460px" height="240px" src="https://github-readme-stats.vercel.app/api?username=nparashar150&show_icons=true&hide_border=true&theme=tokyonight" alt="nparashar150" />  <img width="460px" height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=nparashar150&hide_border=true&theme=tokyonight" alt="nparashar150" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nparashar150&show_icons=true&hide_border=true&theme=tokyonight" alt="nparashar150" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nparashar150&hide_border=true&theme=tokyonight" alt="nparashar150" /> </p>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=nparashar150&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="nparashar150" /> </p>
 <br>
 <div align="center">
