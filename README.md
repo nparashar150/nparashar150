@@ -15,5 +15,3 @@
   <br>
   <img title="VS Code" alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nparashar150&style=flat-square" alt="nparashar150" /> <img src="https://img.shields.io/github/followers/nparashar150?color=289672" alt="followers" /> <img src="https://img.shields.io/github/stars/nparashar150?color=FF5050" alt="stars" /></p>
