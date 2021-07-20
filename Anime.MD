@@ -25,3 +25,4 @@
 - Your lie in April
 - Haikyu!!
 - Jujutsu Kaisen
+- Mirai Nikki
