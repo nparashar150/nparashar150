@@ -26,3 +26,5 @@
 - Haikyu!!
 - Jujutsu Kaisen
 - Mirai Nikki
+- Mob Psycho 100
+- Vinland Saga
