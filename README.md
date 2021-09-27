@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Naman Parashar </h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nparashar150&show_icons=true&hide_border=true&theme=tokyonight" alt="nparashar150" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nparashar150&hide_border=true&theme=tokyonight" alt="nparashar150" /> </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=nparashar150&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="nparashar150" /> </p>
+<h1 align="center">Hi, I'm Anton Pavlov </h1>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=diego-escudero&show_icons=true&hide_border=true&theme=tokyonight" alt="diego-escudero" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-escudero&hide_border=true&theme=tokyonight" alt="diego-escudero" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=diego-escudero&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="nparashar150" /> </p>
 <br>
 <div align="center">
   <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
