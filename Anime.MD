@@ -28,3 +28,5 @@
 - Mirai Nikki
 - Mob Psycho 100
 - Vinland Saga
+- Another
+- I want to eat your pancreas
