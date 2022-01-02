@@ -30,3 +30,4 @@
 - Vinland Saga
 - Another
 - I want to eat your pancreas
+- Blue Exorcist
