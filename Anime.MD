@@ -31,4 +31,3 @@
 - Another
 - I want to eat your pancreas
 - Blue Exorcist
-- Mob Psycho 100
