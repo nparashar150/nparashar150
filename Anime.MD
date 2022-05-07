@@ -32,3 +32,4 @@
 - I want to eat your pancreas
 - Blue Exorcist
 - Josee, the Tiger and the Fish (Movie)
+- Bleach
