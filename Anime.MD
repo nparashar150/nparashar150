@@ -33,3 +33,5 @@
 - Blue Exorcist
 - Josee, the Tiger and the Fish (Movie)
 - Bleach
+- Mushoku Tensei
+- Vivy
