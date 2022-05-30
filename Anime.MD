@@ -35,3 +35,4 @@
 - Bleach
 - Mushoku Tensei
 - Vivy
+- 86 (86 Eighty Six)
