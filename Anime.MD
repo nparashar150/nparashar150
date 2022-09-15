@@ -36,3 +36,4 @@
 - Mushoku Tensei
 - Vivy
 - 86 (86 Eighty Six)
+- Kuroko's Basketball
