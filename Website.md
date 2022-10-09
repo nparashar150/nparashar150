@@ -21,3 +21,17 @@
 ## [10) Note.it](https://msms-224ad.web.app/)
 
 ## [11) KangOS](https://kangos.in/download_kangos/)
+
+<br />
+<br />
+<br />
+
+# Other Works 
+
+## [1) Own React Library](https://github.com/nparashar150/own-react-lib)
+
+## [2) Google Drive handler](https://github.com/nparashar150/Google_Drive_Handler)
+
+## [3) ChatApp](https://lustrous-bounty-332014.web.app/)
+
+## [4) Hackintosh Thinkpad_L440](https://github.com/nparashar150/Hackintosh_ThinkPad-L440)
