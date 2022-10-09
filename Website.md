@@ -1,16 +1,21 @@
-# Check-out My Websites Here.
+# List of websites I have created/worked on.
 
-## [1) Mi A1](https://nparashar150.github.io/mia1)
+## [1) VipsAce](https://vipsace.org/)
 
-## [2) Mi A2](https://nparashar150.github.io/mia2)
+## [2) Antler](http://antler.co/)
 
-## [3) Naman Parashar](https://nparashar150.github.io)
+## [3) OffsetFarm](https://offsetfarm.io/)
 
-## [4) Kang OS](https://kangos.in/)
+## [4) OffsetFarm App](https://app.offsetfarm.io/)
 
-## [5) Note.it](https://msms-224ad.web.app/)
+## [5) CareFi App](https://app.carefi.in/)
 
-## [6) Netflix-Clone](https://nparashar150.me/netflix/)
-<br>
+## [6) Personal Portfolio](https://nparashar150.com/)
 
-## Thank You for visiting.
+## [7) Naveen Rajaka](https://rjkexim.com/)
+
+## [8) Colt Enigma](https://colt-enigma.github.io/)
+
+## [9) Note.it](https://msms-224ad.web.app/)
+
+## [10) Kang OS](https://kangos.in/download_kangos/)
