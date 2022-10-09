@@ -1,21 +1,23 @@
 # List of websites I have created/worked on.
 
-## [1) VipsAce](https://vipsace.org/)
+## [1) ACE](https://vipsace.org/)
 
 ## [2) Antler](http://antler.co/)
 
 ## [3) OffsetFarm](https://offsetfarm.io/)
 
-## [4) OffsetFarm App](https://app.offsetfarm.io/)
+## [4) OffsetFarmApp](https://app.offsetfarm.io/)
 
-## [5) CareFi App](https://app.carefi.in/)
+## [5) CareFiApp](https://app.carefi.in/)
 
-## [6) Personal Portfolio](https://nparashar150.com/)
+## [6) HackVSIT](https://hack-vsit.tech/)
 
-## [7) Naveen Rajaka](https://rjkexim.com/)
+## [7) Portfolio](https://nparashar150.com/)
 
-## [8) Colt Enigma](https://colt-enigma.github.io/)
+## [8) NaveenRajaka](https://rjkexim.com/)
 
-## [9) Note.it](https://msms-224ad.web.app/)
+## [9) ColtEnigma](https://colt-enigma.github.io/)
 
-## [10) Kang OS](https://kangos.in/download_kangos/)
+## [10) Note.it](https://msms-224ad.web.app/)
+
+## [11) KangOS](https://kangos.in/download_kangos/)
