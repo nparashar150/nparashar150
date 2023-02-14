@@ -38,3 +38,4 @@
 - 86 (86 Eighty Six)
 - Kuroko's Basketball
 - Zankyou no Terror
+- Classroom of the elite
