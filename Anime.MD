@@ -39,3 +39,4 @@
 - Kuroko's Basketball
 - Zankyou no Terror
 - Classroom of the elite
+- Blue Lock
