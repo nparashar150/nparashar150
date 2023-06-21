@@ -39,4 +39,5 @@
 - Kuroko's Basketball
 - Zankyou no Terror
 - Classroom of the elite
-- Blue Lock
+- Blue Lock 
+- Summer Time Rendering
