@@ -41,3 +41,5 @@
 - Classroom of the elite
 - Blue Lock 
 - Summer Time Rendering
+- Ragna Crimson
+- The Kingdoms of Ruin
